@@ -17,18 +17,16 @@ article {
 	padding: 20px;
 }
 
-img {
-	max-width: 200px;
-}
-
 figure {
-	background-color: #555;
+	background-color: #eee;
 	padding: 10px;
+	max-width: 200px;
 }
 
 figcaption {
 	font-size: .8em;
 	background-color: #fff;
+	padding: 5px;
 }
 
 blockquote {
@@ -41,6 +39,6 @@ video {
 }
 
 footer {
-	margin: 0 auto;
+	text-align: center;
 	font-size: .8em;
 }
