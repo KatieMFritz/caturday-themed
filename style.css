@@ -70,6 +70,18 @@ button {
 	background-color: purple;
 }
 
+#reset {
+	background-color: #777;
+}
+
 body.green {
 	background-color: green;
+}
+
+body.blue {
+	background-color: blue;
+}
+
+body.surprise {
+	background-image: url('sillymac.jpg');
 }
