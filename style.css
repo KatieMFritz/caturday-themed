@@ -83,5 +83,5 @@ body.blue {
 }
 
 body.surprise {
-	background-image: url('sillymac.jpg');
+	background-image: url('http://thecatapi.com/api/images/get');
 }
