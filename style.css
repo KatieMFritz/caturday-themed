@@ -11,7 +11,7 @@ h1 {
 	color: green;
 }
 
-article {
+article, #button-menu {
 	background-color: #fff;
 	margin: 20px 0;
 	padding: 20px;
@@ -45,4 +45,27 @@ video {
 footer {
 	text-align: center;
 	font-size: .8em;
+}
+
+/******************************
+fun with themes
+*******************************/
+button {
+	padding: 10px;
+	margin: 5px;
+	font-size: 1em;
+	font-weight: 700;
+	color: #fff;
+}
+
+#green {
+	background-color: green;
+}
+
+#blue {
+	background-color: blue;
+}
+
+#surprise {
+	background-color: purple;
 }
